@@ -12,7 +12,7 @@ An elegant and powerful related posts solution.
 
 == Description ==
 
-Stop worriing about related content. Related Posts Lite will provide you a powerful and beautiful related posts solution, which works with custom post types as well. Related Posts Lite uses a complex keyword based engine to look for related content.
+Stop worrying about related content. Related Posts Lite will provide you a powerful and beautiful related posts solution, which works with custom post types as well. Related Posts Lite uses a complex keyword based engine to look for related content.
 
 The powerful backend will help you to customize the layout and behaviour of the plugin quick and easy.
 
