@@ -3,7 +3,7 @@ Contributors: wpdreams
 Donate link: http://wp-dreams.com
 Tags: related posts, related content, wordpress related posts, related post, related, related custom posts, related post types, related products, related posts lite
 Requires at least: 3.5
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
