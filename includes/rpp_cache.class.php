@@ -22,8 +22,10 @@ class rppCache {
   
   public static function purgeCache() {
     $_rpp_instances = get_option('rpp_instances');
-    foreach ($_rpp_instances as $id => $instance) {
-      delete_transient( "rpp_id_".$id );    
+    if (is_array($_rpp_instances)) {
+      foreach ($_rpp_instances as $id => $instance) {
+        delete_transient( "rpp_id_".$id );    
+      }
     }
   }
 }
