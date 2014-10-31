@@ -1,7 +1,7 @@
 === Related Posts Lite ===
 Contributors: wpdreams
 Donate link: http://wp-dreams.com
-Tags: related posts, related content, wordpress related posts, related post, related, related custom posts, related post types, related products, related posts lite
+Tags: related posts, related, content, related plugin, related post plugin, related posts plugin, related content, wordpress related posts, related post, related, related custom posts, related post types, related products, related posts lite, seo, wordpress related posts
 Requires at least: 3.5
 Tested up to: 4.0
 Stable tag: trunk
@@ -12,10 +12,22 @@ An elegant and powerful related posts solution.
 
 == Description ==
 
+By adding Related Posts to your content header and footer you can enhance the user experience a lot. Well designed related posts section will keep your visitors on your site for a long time.
+
 Stop worrying about related content. Related Posts Lite will provide you a powerful and beautiful related posts solution, which works with custom post types as well. Related Posts Lite uses a complex keyword based engine to look for related content.
 
 The powerful backend will help you to customize the layout and behaviour of the plugin quick and easy.
 
+**Why related Posts Lite?**
+
+* Very easy setup, instantly works
+* Smart thumbnail images with TimThumb image library
+* Consumes less CPU power
+* Database queries are highly optimized
+* Caching lets you save even more resources
+* Solid javascript and CSS
+* Support forum is checked regulary (as you can see)
+* No limitations
 
 **Features List:**
 

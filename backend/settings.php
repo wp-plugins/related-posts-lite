@@ -31,7 +31,7 @@ rppCache::clearCache(1337420);
     <?php endif; ?>
 
     <div class="wpdreams-box" style='vertical-align: middle;'>
-    <a class='gopro' href='http://demo.wp-dreams.com/?product=related_posts_pro' target='_blank'>Go pro!</a>
+    <a class='gopro' href='http://demo.wp-dreams.com/?product=related_posts_pro' target='_blank'>Get the pro version!</a>
     or leave a like :)
     <div style='display: inline-block;' class="fb-like" data-href="https://www.facebook.com/pages/WPDreams/383702515034741" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
     or you can follow me
