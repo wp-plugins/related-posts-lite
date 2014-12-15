@@ -4,7 +4,7 @@ Donate link: http://wp-dreams.com
 Tags: related posts, related, content, related plugin, related post plugin, related posts plugin, related content, wordpress related posts, related post, related, related custom posts, related post types, related products, related posts lite, seo, wordpress related posts
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: trunk
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,8 +35,9 @@ The powerful backend will help you to customize the layout and behaviour of the 
 * Smart fill options, if no related content is found
 * Clean sliding layout with autoplay
 * 6 retina ready pre-defined themes included
-* Smart image parsing with TimThumb image caghing technology
+* Smart image parsing with BFIThumb image caghing technology
 * Automatic caching for better speed
+* Use the custom shortcode [wpdreams_rpl] to put it anywhere ony our site
 
 Homepage: [wp-dreams.com](http://wp-dreams.com)
 
@@ -61,6 +62,12 @@ Pro version Demo:  [Related Posts Pro](http://demo.wp-dreams.com/?product=relate
 
 
 == Changelog ==
+
+= 1.1 =
+* Added a shortcode [wpdreams_rpl] to use the plugin on custom locations
+* Removed TimThumb
+* Translation ready + Hungarian language included
+* Cache fixes and adjustments
 
 = 1.0 =
 * Initial release, yeee
