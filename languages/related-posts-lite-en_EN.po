@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Related Posts Lite plugin\n"
+"POT-Creation-Date: 2014-12-15 17:24+0100\n"
+"PO-Revision-Date: 2014-12-15 17:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../backend/settings\n"
+
+#: ../backend/metaboxes/default-content.php:39
+msgid "Related Posts Lite Settings"
+msgstr ""
+
+#: ../backend/settings.php:44
+msgid "Shortcodes for custom placement"
+msgstr ""
+
+#: ../backend/settings.php:45
+msgid "Simple shortcode:"
+msgstr ""
+
+#: ../backend/settings.php:47
+msgid "Shortcode for templates:"
+msgstr ""
+
+#: ../backend/settings.php:60
+msgid "General Options"
+msgstr ""
+
+#: ../backend/settings.php:61 ../backend/settings.php:77
+msgid "Layout Options"
+msgstr ""
+
+#: ../backend/settings.php:62 ../backend/settings.php:85
+msgid "Relevance Options"
+msgstr ""
+
+#: ../backend/settings.php:63 ../backend/settings.php:93
+msgid "Content Options"
+msgstr ""
+
+#: ../backend/settings.php:64
+msgid "Advanced"
+msgstr ""
+
+#: ../backend/settings.php:69
+msgid "Genearal Options"
+msgstr ""
+
+#: ../backend/settings.php:101
+msgid "Advanced Options"
+msgstr ""
+
+#: ../backend/settings.php:125
+msgid "Related posts lite settings saved!"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:11
+msgid "Autoplay Options"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:15
+msgid "Enable autoplay?"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:24
+msgid "Show the autoplay indicator?"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:33
+msgid "Autoplay interval (ms)"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:45
+msgid ""
+"By excluding one or more categories, the content (posts/custom post types) "
+"form those terms won't show on the frontend."
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:49
+msgid "Exclude categories"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:61
+msgid "Exclude posts by ID"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:66
+msgid "Separated by comma, example: 1, 2, 13, 24, 100"
+msgstr ""
+
+#: ../backend/tabs/instance/advanced_options.php:71
+#: ../backend/tabs/instance/content_options.php:84
+#: ../backend/tabs/instance/general_options.php:170
+#: ../backend/tabs/instance/image_options.php:12
+#: ../backend/tabs/instance/layout_options.php:103
+#: ../backend/tabs/instance/relevance_options.php:54
+msgid "Save all tabs!"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:4
+msgid "Return posts?"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:13
+msgid "Return pages?"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:22
+msgid "Return custom post types?"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:31
+msgid "Advanced options"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:35
+msgid "Show content"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:46
+msgid "Content max length (characters)"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:55
+msgid "Show the date?"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:64
+msgid "Date format"
+msgstr ""
+
+#: ../backend/tabs/instance/content_options.php:74
+msgid "Show the author?"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:20
+msgid "Theme"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:30
+msgid "Max items count"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:39
+msgid "On less content fill the items with"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:49
+msgid "On no results fill the items with"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:58
+msgid "Hide if no content is found whatsoever?"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:67
+msgid "Show images in results?"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:76
+msgid "Image width"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:85
+msgid "Image height"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:92
+msgid "Image source settings"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:96
+msgid "Primary image source"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:107
+msgid "Alternative image source 1"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:118
+msgid "Alternative image source 2"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:129
+msgid "Alternative image source 3"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:140
+msgid "Alternative image source 4"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:151
+msgid "Default image url"
+msgstr ""
+
+#: ../backend/tabs/instance/general_options.php:160
+msgid "Custom field containing the image"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:20
+msgid "Show the plugin under content?"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:32
+msgid "Show the plugin above content?"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:44
+msgid "Show the plugin on posts?"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:54
+msgid "Show the plugin on pages?"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:63
+msgid "Show plugin on custom post types"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:73
+msgid "Show on single content pages?"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:83
+msgid "Show on the home page?"
+msgstr ""
+
+#: ../backend/tabs/instance/layout_options.php:93
+msgid "Show on archive pages?"
+msgstr ""
+
+#: ../backend/tabs/instance/relevance_options.php:6
+msgid "Look in title?"
+msgstr ""
+
+#: ../backend/tabs/instance/relevance_options.php:15
+msgid "Look in content?"
+msgstr ""
+
+#: ../backend/tabs/instance/relevance_options.php:24
+msgid "Look in excerpt?"
+msgstr ""
+
+#: ../backend/tabs/instance/relevance_options.php:33
+msgid "Look in custom fields?"
+msgstr ""
+
+#: ../backend/tabs/instance/relevance_options.php:43
+msgid "Keep each field exclusive?"
+msgstr ""
+
+#: ../backend/tabs/instance/relevance_options.php:48
+msgid ""
+"Exclusive fields mean, that only the corresponding fields are compared. "
+"Title vs. title, content vs content etc..."
+msgstr ""
+
+#: ../includes/bfi_thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: ../includes/bfi_thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: ../includes/bfi_thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: ../includes/bfi_thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: ../includes/bfi_thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: ../includes/bfi_thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: ../includes/rpl_init.class.php:27 ../includes/rpl_init.class.php:28
+msgid "Related Posts Lite"
+msgstr ""
