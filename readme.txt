@@ -4,7 +4,7 @@ Donate link: http://wp-dreams.com
 Tags: related posts, related, content, related plugin, related post plugin, related posts plugin, related content, wordpress related posts, related post, related, related custom posts, related post types, related products, related posts lite, seo, wordpress related posts
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: 1.1
+Stable tag: 1.11
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,6 +62,9 @@ Pro version Demo:  [Related Posts Pro](http://demo.wp-dreams.com/?product=relate
 
 
 == Changelog ==
+
+= 1.11 =
+* A possible security issue fix
 
 = 1.1 =
 * Added a shortcode [wpdreams_rpl] to use the plugin on custom locations
