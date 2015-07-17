@@ -63,6 +63,9 @@ Pro version Demo:  [Related Posts Pro](http://demo.wp-dreams.com/?product=relate
 
 == Changelog ==
 
+= 1.12 =
+* Thumbnail generator media library bugfix
+
 = 1.11 =
 * A possible security issue fix
 
